@@ -97,12 +97,12 @@
                     <span class="what-you-can-do-subtitle customize-cake">Customize your cake</span>
                     <span class="what-you-can-do-text">You can customize your cake with your favourite glazing, toppings, color and more!</span>
                 </div>
-                
                 <div class="column">
                     <i class="fas fa-boxes"  style="color: black;"></i>
                     <span class="what-you-can-do-subtitle create-box">Custom cake box</span>
                     <span class="what-you-can-do-text">You can add different types of cakes in a box and we deliver it to you!</span>
-                </div>
+                </div> 
+               
 
             </div>
          </div>
