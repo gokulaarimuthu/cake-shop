@@ -3,7 +3,7 @@ hr{
     opacity: .2;
 }
 
-/* Start User Profile */
+
 .col-md-15 {
     width: 100%;
     position: relative;
@@ -84,10 +84,10 @@ hr{
 .danger-zone-inside {
     padding: 15px;
 }
-/* End User Profile */
 
 
-/*Start Login & Registration Panel*/
+
+
 .login-page {
     width: 100%;
     padding: 10px 0;
