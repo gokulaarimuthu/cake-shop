@@ -8,8 +8,7 @@
     include_once 'connection.php';
     
 
-    //USER COMPLETED PAYMENT
-    //CREATE ORDER ID FOR USER
+   
 
     //FIRST -- FIND PHONE NUMBER
     $Q_select_user_phone = 'SELECT phone FROM user WHERE userID = '.$_SESSION['userID'];
