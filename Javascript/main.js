@@ -8,7 +8,6 @@ for(let i=0; i<carts.length; i++){
         cartNumbers();
        
     });
-
 }
 //for id sharing
 // let submit_button = document.getElementById('submit_btn');
